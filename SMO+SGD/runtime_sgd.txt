@@ -1,0 +1,25 @@
+size = 1
+Avg runtime: with minibatch size = 1 is 0.639045572281s
+Std runtime: with minibatch size = 1 is 0.00722750563728s
+Plot data have been plolted in ./Rihan-1-SGD-k.txt
+
+size = 20
+Avg runtime: with minibatch size = 20 is 0.633597660065s
+Std runtime: with minibatch size = 20 is 0.033308217064s
+Plot data have been plolted in ./Rihan-20-SGD-k.txt
+
+size = 100
+Avg runtime: with minibatch size = 100 is 0.560034990311s
+Std runtime: with minibatch size = 100 is 0.0269064394867s
+Plot data have been plolted in ./Rihan-100-SGD-k.txt
+
+size = 200
+Avg runtime: with minibatch size = 200 is 0.530095672607s
+Std runtime: with minibatch size = 200 is 0.0206641483908s
+Plot data have been plolted in ./Rihan-200-SGD-k.txt
+
+size = 2000
+Avg runtime: with minibatch size = 2000 is 0.373792409897s
+Std runtime: with minibatch size = 2000 is 0.0472312727556s
+Plot data have been plolted in ./Rihan-2000-SGD-k.txt
+

@@ -1,0 +1,3 @@
+wholeset.py -------> transform the grayscale image data to pixel matrix
+
+wholeset_keras.py -------> buliding the ConvNet model by Keras module

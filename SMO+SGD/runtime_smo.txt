@@ -1,0 +1,4 @@
+Avg runtime: 3.70266342163s
+Std runtime: 0.725610217731s
+Plot data have been plolted in ./RihanSMO-k.txt
+
