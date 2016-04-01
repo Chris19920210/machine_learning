@@ -17,3 +17,4 @@ for line in sys.stdin:
 
 #Note that Hadoop expects a tab to separate key value
 #but this program assumes the input file has a ',' separating key value
+#newline newline
